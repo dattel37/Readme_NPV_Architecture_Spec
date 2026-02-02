@@ -12,8 +12,6 @@
 
 Ein universelles Schutzsystem für lokale KI-Modelle, das diese beim Zugriff auf das Internet vor Angriffen schützt – insbesondere vor Indirect Prompt Injection.
 
-**Philosophie:** "Absolute Love, Absolute Neutrality, Absolute Respect"
-
 **Ziel:** Nicht kommerziell, sondern als Geschenk an die Community – damit andere nicht erleiden müssen, was wir erlitten haben.
 
 ---
